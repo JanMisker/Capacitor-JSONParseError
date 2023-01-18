@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">JSONParseError</string>
+    <string name="title_activity_main">JSONParseError</string>
+    <string name="package_name">nl.misker.nl.ionic.jsonparseerror</string>
+    <string name="custom_url_scheme">nl.misker.nl.ionic.jsonparseerror</string>
+</resources>
