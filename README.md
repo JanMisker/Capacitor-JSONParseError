@@ -12,3 +12,7 @@ is fetched from this url https://run.mocky.io/v3/cb25a9f8-1ef5-4462-8e5a-fc56de2
 Run it in browser with `npm run start` and it shows the text `hello world`.
 
 Run it on iOS or Android and an error is shown.
+
+## PR
+
+Here is a PR that remedies this problem https://github.com/ionic-team/capacitor/pull/6224
